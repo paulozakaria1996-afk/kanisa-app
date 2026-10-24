@@ -1,0 +1,6 @@
+{
+  "name": "Mfumo wa Usimamizi wa Washirika wa Kanisa",
+  "description": "Mfumo kamili wa kusimamia waumini, usajili wa washirika, kutoa sadaka kwa njia ya mtandao, video za YouTube za mahubiri, dashibodi ya msimamizi yenye neno la siri, takwimu za jinsia na umri, SMS maalum, na ripoti za kila mwezi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
